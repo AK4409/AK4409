@@ -1,5 +1,38 @@
 # 💫 About Me:
-<h1 align="center">👋 Hi, I'm Anuj Karn</h1><br><h3 align="center">B.Sc. CSIT Student | MERN Stack Developer</h3><br><p align="center">Passionate about building modern, responsive, and user-friendly web applications.<br></p><br> 👨‍💻 About Me<br>I'm a **B.Sc. CSIT student** and passionate **MERN Stack Developer** who enjoys turning ideas into practical digital experiences.<br>Currently, I'm focused on improving my **React.js, TypeScript, frontend architecture, and full-stack development** skills while building real-world projects.<br>🎯 **Goal:** To grow as a professional software developer and build meaningful products that solve real-world problems.<br><br>## 💬 Ask Me About<br><br>- ⚛️ React.js & React Hooks<br>- 🟦 TypeScript & JavaScript<br>- 🌐 MERN Stack Development<br>- 🎨 Frontend Development<br>- 🌈 Tailwind CSS & Responsive Design<br>- 🔧 Full-Stack Web Development<br>- 💻 Web Development Projects<br><br> ⚡ Fun Fact<br>I enjoy turning simple ideas into working web applications, and I can easily lose track of time when experimenting with new technologies and improving my code. 😄
+
+<h1 align="center">👋 Hi, I'm Anuj Karn</h1>
+
+<h3 align="center">B.Sc. CSIT Student | MERN Stack Developer</h3>
+
+<p align="center">Passionate about building modern, responsive, and user-friendly web applications.</p>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a **B.Sc. CSIT student** and passionate **MERN Stack Developer** who enjoys turning ideas into practical digital experiences.
+
+Currently, I'm focused on improving my **React.js, TypeScript, frontend architecture, and full-stack development** skills while building real-world projects.
+
+🎯 **Goal:** To grow as a professional software developer and build meaningful products that solve real-world problems.
+
+---
+
+## 💬 Ask Me About
+
+- ⚛️ React.js & React Hooks
+- 🟦 TypeScript & JavaScript
+- 🌐 MERN Stack Development
+- 🎨 Frontend Development
+- 🌈 Tailwind CSS & Responsive Design
+- 🔧 Full-Stack Web Development
+- 💻 Web Development Projects
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy turning simple ideas into working web applications, and I can easily lose track of time when experimenting with new technologies and improving my code. 😄
 
 
 ## 🌐 Socials:
